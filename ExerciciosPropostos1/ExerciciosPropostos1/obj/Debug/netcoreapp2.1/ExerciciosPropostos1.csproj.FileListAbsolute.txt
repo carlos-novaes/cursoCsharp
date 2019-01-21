@@ -1,0 +1,11 @@
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.deps.json
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.runtimeconfig.json
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.dll
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.pdb
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.dll
+C:\Users\Pichau\Desktop\myCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.pdb
+C:\Users\Pichau\Desktop\MyCodes\c#\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.csprojAssemblyReference.cache
